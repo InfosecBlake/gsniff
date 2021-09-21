@@ -77,6 +77,8 @@ This tool will be continue to be updated, if you would like a feature please put
 Upcoming:
   - remove sniffing twice when outputting to file
   - resolve windows issues when sniffing from pcap
+  - add ability to specify how many packets to sniff using count
+  - add ability to set a timeout period
 
 ## Contributing
 If you would like to become a contributer please open an issue. For changes, please open an issue first to discuss what you would like to change.
